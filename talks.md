@@ -4,9 +4,9 @@
 
 *For more information, please visit [talks.cam.ac.uk](https://talks.cam.ac.uk/show/index/5709).*
 
-#### [Crystallisation fouling from aqueous solutions of clathrate hydrates and](https://talks.cam.ac.uk/talk/index/174665)
+#### [See Below](https://talks.cam.ac.uk/talk/index/174665)
 
-**Anastasia Karela, BPI and Paddy Mortimer, BPI**
+**Paddy Mortimer, BPI and Holly Smith, BPI**
 
 Seminars for the Centre for Environmental and Industrial Flows
 
