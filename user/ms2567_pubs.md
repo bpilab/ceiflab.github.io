@@ -1,4 +1,8 @@
 ## Publications
+* Sk, M.H. [Communication tools for scientists who stammer](http://dx.doi.org/10.1038/d41586-022-02127-7) Nature 2022
+
+* Wang, S., Uprety, S., Mirkhani, V., Hanggi, D., Yapabandara, K., Khanal, M.P., Ahyi, A.C., Hamilton, M.C., Sk, M.H., and Park, M. [The effect of gamma-ray irradiation on the electrical characteristics of sol-gel derived zinc tin oxide thin film transistors](http://dx.doi.org/10.1016/j.sse.2022.108270) Solid-State Electronics 2022
+
 * Mirkhani, V., Wang, S., Yapabandara, K., Sultan, M.S., Khanal, M.P., Uprety, S., Ozden, B., Hassani, E., Schoenek, B.V., Kim, D.-.J., Oh, T.-.S., Ahyi, A.C., Dhar, S., Hamilton, M.C., Sk, M.H., and Park, M. [High dose gamma irradiation effects on properties of active layers in ZnO thin film transistors](http://dx.doi.org/10.1088/1361-6641/ac1c4e) Semiconductor Science and Technology 2021
 
 * Sk, M.H., Qi, J., Al-Qahtani, N., Abdullah, A.M., Laycock, N., Ryan, M.P., and Williams, D.E. [Erratum: Effect of Trace H2S on the Scale Formation Behavior in a Predominant CO2 Environment under Hydrodynamic Control: Role of Cr/Mo Micro-Alloying in Plain Carbon Steel [J. Electrochem. Soc., 166, C3233 (2019)]](http://dx.doi.org/10.1149/2.0521910jes) JOURNAL OF THE ELECTROCHEMICAL SOCIETY 2019
@@ -25,9 +29,9 @@
 
 * Sk, M.H., Overfelt, R.A., and Abdullah, A.M. [Effects of microstructures on hydrogen induced cracking of electrochemically hydrogenated double notched tensile sample of 4340 steel](http://dx.doi.org/10.1016/j.msea.2016.02.047) MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES MICROSTRUCTURE AND PROCESSING 2016
 
-* Ozden, B., Yang, C., Tong, F., Khanal, M.P., Mirkhani, V., Sk, M.H., Ahyi, A.C., and Park, M. [Erratum: “Depth-resolved ultra-violet spectroscopic photo current-voltage measurements for the analysis of AlGaN/GaN high electron mobility transistor epilayer deposited on Si” [Appl. Phys. Lett. 105, 172105 (2014)]](http://dx.doi.org/10.1063/1.4921965) Applied Physics Letters 2015
+* Hassan Sk, M., and Overfelt, R.A. [Microstructurally Mediated Changes in Fracture Characteristics for Electrochemically Hydrogenated 4340 Steel](http://dx.doi.org/10.1520/mpc20140026) Materials Performance and Characterization 2015
 
-* Hassan Sk, M., and Overfelt, R.A. [Microstructurally Mediated Changes in Fracture Characteristics for Electrochemically Hydrogenated 4340 Steel](http://dx.doi.org/10.1520/mpc20140026) Materials Performance and Characterization 2014
+* Ozden, B., Yang, C., Tong, F., Khanal, M.P., Mirkhani, V., Sk, M.H., Ahyi, A.C., and Park, M. [Erratum: “Depth-resolved ultra-violet spectroscopic photo current-voltage measurements for the analysis of AlGaN/GaN high electron mobility transistor epilayer deposited on Si” [Appl. Phys. Lett. 105, 172105 (2014)]](http://dx.doi.org/10.1063/1.4921965) Applied Physics Letters 2015
 
 * Ozden, B., Yang, C., Tong, F., Khanal, M.P., Mirkhani, V., Sk, M.H., Ahyi, A.C., and Park, M. [Depth-resolved ultra-violet spectroscopic photo current-voltage measurements for the analysis of AlGaN/GaN high electron mobility transistor epilayer deposited on Si](http://dx.doi.org/10.1063/1.4900869) Applied Physics Letters 2014
 

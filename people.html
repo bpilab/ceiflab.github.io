@@ -47,17 +47,18 @@
     <h1><a href="/archive">News</a></h1>
     <ul>
         
+          <li><a href="/2022/09/environmental-flow-seminar">Fourth Cambridge Environmental Flows Seminar</a></li>
+        
+          <li><a href="/2022/02/decarbonisation-of-heating">PhD studentship - Decarbonisation of Heating (Fixed Term)</a></li>
+        
           <li><a href="/2022/02/deep-submarine-volcanic-eruptions">Dynamics of deep-submarine volcanic eruptions</a></li>
         
           <li><a href="/2022/02/coarsening-dynamics-dunes">Coarsening Dynamics of 2D Subaqueous Dunes</a></li>
         
           <li><a href="/2022/01/formation-lunar-primary-crust">Formation of the Lunar Primary Crust From a Long-Lived Slushy Magma Ocean</a></li>
         
-          <li><a href="/2021/12/particle-plume-separation-paper">On particle separation from turbulent particle plumes in a cross-flow</a></li>
-        
-          <li><a href="/2021/12/aqueous-graphene-oxide-adsorption">Spontaneous surface adsorption of aqueous graphene oxide by synergy with surfactants</a></li>
-        
     </ul>
+    <h1><a href="https://universityofcambridgecloud.sharepoint.com/sites/BPAMOCO_BPI2">Internal links</a></h1>
 </div>
 
         </div>
@@ -66,6 +67,7 @@
     <button id="faculty">Faculty</button>
     <button id="staff">Staff</button>
     <button id="research">Research</button>
+    <button id="students">Students</button>
 </div>
 
 <div id="people" class="fcols">
@@ -115,6 +117,21 @@
         </div>
         <div class="role" style="text-align:center">
             Head of Institute
+        </div>
+    </div>
+    
+    
+    
+    
+    <div class="person students" surname="Boggio-Robutti">
+        <div class="img">
+            <a href="/user/bamb2"><img class="people" src="images/bamb2.jpg" width="92px" /></a>
+        </div>
+        <div class="name">
+            <a href="/user/bamb2">Beatrice Anna Maria Boggio-Robutti</a>
+        </div>
+        <div class="role" style="text-align:center">
+            PhD student
         </div>
     </div>
     
@@ -248,6 +265,21 @@
     
     
     
+    <div class="person students" surname="Poole">
+        <div class="img">
+            <a href="/user/grp39"><img class="people" src="images/grp39.jpg" width="92px" /></a>
+        </div>
+        <div class="name">
+            <a href="/user/grp39">George Poole</a>
+        </div>
+        <div class="role" style="text-align:center">
+            PhD student
+        </div>
+    </div>
+    
+    
+    
+    
     
     
     
@@ -323,6 +355,21 @@
         </div>
         <div class="role" style="text-align:center">
             Computer Officer
+        </div>
+    </div>
+    
+    
+    
+    
+    <div class="person research" surname="DU">
+        <div class="img">
+            <a href="/user/kd515"><img class="people" src="images/kd515.jpg" width="92px" /></a>
+        </div>
+        <div class="name">
+            <a href="/user/kd515">Kou DU</a>
+        </div>
+        <div class="role" style="text-align:center">
+            Research Associate
         </div>
     </div>
     
@@ -410,21 +457,6 @@
     
     
     
-    <div class="person faculty" surname="Vriend">
-        <div class="img">
-            <a href="/user/nv253"><img class="people" src="images/nv253.jpg" width="92px" /></a>
-        </div>
-        <div class="name">
-            <a href="/user/nv253">Nathalie Vriend</a>
-        </div>
-        <div class="role" style="text-align:center">
-            Royal Society University Research Fellow
-        </div>
-    </div>
-    
-    
-    
-    
     
     
     
@@ -461,6 +493,8 @@
     
     
     
+    
+    
     <div class="person staff" surname="Crowe">
         <div class="img">
             <a href="/user/sdc27"><img class="people" src="images/sdc27.jpg" width="92px" /></a>
@@ -474,6 +508,21 @@
     </div>
     
     
+    
+    
+    
+    
+    <div class="person students" surname="Bhatt">
+        <div class="img">
+            <a href="/user/sjb341"><img class="people" src="images/sjb341.jpg" width="92px" /></a>
+        </div>
+        <div class="name">
+            <a href="/user/sjb341">Sheila Bhatt</a>
+        </div>
+        <div class="role" style="text-align:center">
+            PhD student
+        </div>
+    </div>
     
     
     
@@ -524,7 +573,7 @@ return $(a).attr('surname').localeCompare($(b).attr('surname'));
 
 $.each(listitems, function(idx, itm) { mylist.append(itm); });
 
-var button_state = new Map([['faculty', true], ['staff', true], ['research', true]]);
+var button_state = new Map([['faculty', true], ['staff', true], ['research', true], ['students', true]]);
 
 $("#filter button").on("click", function(){
     var filtertag = $(this).attr('id');

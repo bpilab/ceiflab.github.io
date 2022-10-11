@@ -7,11 +7,11 @@
 
 * Davidson, J.A., Sacchi, M., Gorrec, F., Clarke, S.M., and Jenkins, S.J. [Halogen Bonding in Bicomponent Monolayers: Self-Assembly of a Homologous Series of Iodinated Perfluoroalkanes with Bipyridine](http://dx.doi.org/10.1021/acs.langmuir.0c02126) Langmuir : the ACS journal of surfaces and colloids 2021
 
-* Allen, F.J., Truscott, C.L., Welbourn, R.J.L., and Clarke, S.M. [Influence of surfactants on a pre-adsorbed cationic layer: Removal and modification](http://dx.doi.org/10.1016/j.jcis.2020.12.047) Journal of Colloid and Interface Science 2020
+* Allen, F.J., Truscott, C.L., Welbourn, R.J.L., and Clarke, S.M. [Influence of surfactants on a pre-adsorbed cationic layer: Removal and modification](http://dx.doi.org/10.1016/j.jcis.2020.12.047) Journal of Colloid and Interface Science 2021
 
-* Zhang, R., Liao, W., Wang, Y., Wang, Y., Wilson, D.I., Clarke, S.M., and Yang, Z. [The growth and shrinkage of water droplets at the oil-solid interface](http://dx.doi.org/10.1016/j.jcis.2020.09.102) Journal of Colloid and Interface Science 2020
+* Zhang, R., Liao, W., Wang, Y., Wang, Y., Wilson, D.I., Clarke, S.M., and Yang, Z. [The growth and shrinkage of water droplets at the oil-solid interface](http://dx.doi.org/10.1016/j.jcis.2020.09.102) Journal of Colloid and Interface Science 2021
 
-* Browning, K.L., Stocker, I.N., Gutfreund, P., and Clarke, S.M. [The effect of alginate composition on adsorption to calcium carbonate surfaces](http://dx.doi.org/10.1016/j.jcis.2020.07.088) Journal of Colloid and Interface Science 2020
+* Browning, K.L., Stocker, I.N., Gutfreund, P., and Clarke, S.M. [The effect of alginate composition on adsorption to calcium carbonate surfaces](http://dx.doi.org/10.1016/j.jcis.2020.07.088) Journal of Colloid and Interface Science 2021
 
 * Alfred, M.O., Omorogie, M.O., Bodede, O., Moodley, R., Ogunlaja, A., Adeyemi, O.G., Günter, C., Taubert, A., Iermak, I., Eckert, H., Silva, I.D.A., de Camargo, A.S.S., de Jesus Motheo, A., Clarke, S.M., and Unuabonah, E.I. [Solar-active clay-TiO2 nanocomposites prepared via biomass assisted synthesis: Efficient removal of ampicillin, sulfamethoxazole and artemether from water](http://dx.doi.org/10.1016/j.cej.2020.125544) Chemical Engineering Journal 2020
 
@@ -19,7 +19,7 @@
 
 * Slavchov, R.I., Salamanca, M., Russo, D., Salama, I., Mosbach, S., Clarke, S.M., Kraft, M., Lapkin, A.A., and Filip, S.V. [The role of NO2 and NO in the mechanism of hydrocarbon degradation leading to carbonaceous deposits in engines](http://dx.doi.org/10.1016/j.fuel.2020.117218) Fuel 2020
 
-* Davidson, J.A., Jenkins, S.J., Gorrec, F., and Clarke, S.M. [C–H … N hydrogen bonding in an overlayer of s-triazine physisorbed on a graphite surface](http://dx.doi.org/10.1080/00268976.2019.1706777) Molecular Physics: An International Journal at the Interface Between Chemistry and Physics 2019
+* Davidson, J.A., Jenkins, S.J., Gorrec, F., and Clarke, S.M. [C–H…N hydrogen bonding in an overlayer of s-triazine physisorbed on a graphite surface](http://dx.doi.org/10.1080/00268976.2019.1706777) Molecular Physics: An International Journal at the Interface Between Chemistry and Physics 2020
 
 * Tsagkaropoulou, G., Allen, F.J., Clarke, S.M., and Camp, P.J. [Self-assembly and adsorption of cetyltrimethylammonium bromide and didodecyldimethylammonium bromide surfactants at the mica–water interface](http://dx.doi.org/10.1039/c9sm01464k) Soft Matter 2019
 
@@ -85,7 +85,7 @@
 
 * Brewer, A.Y., Sacchi, M., Parker, J.E., Truscott, C.L., Jenkins, S.J., and Clarke, S.M. [Supramolecular self-assembled network formation containing NBr halogen bonds in physisorbed overlayers](http://dx.doi.org/10.1039/c4cp03379e) Physical chemistry chemical physics : PCCP 2014
 
-* Stocker, I.N., Miller, K.L., Welbourn, R.J.L., Clarke, S.M., Collins, I.R., Kinane, C., and Gutfreund, P. [Adsorption of Aerosol-OT at the calcite/water interface – Comparison of the sodium and calcium salts](http://dx.doi.org/10.1016/j.jcis.2013.11.046) Journal of Colloid and Interface Science 2013
+* Stocker, I.N., Miller, K.L., Welbourn, R.J.L., Clarke, S.M., Collins, I.R., Kinane, C., and Gutfreund, P. [Adsorption of Aerosol-OT at the calcite/water interface – Comparison of the sodium and calcium salts](http://dx.doi.org/10.1016/j.jcis.2013.11.046) Journal of Colloid and Interface Science 2014
 
 * Sacchi, M., Brewer, A.Y., Jenkins, S.J., Parker, J.E., Friščić, T., and Clarke, S.M. [Combined Diffraction and Density Functional Theory Calculations of Halogen-Bonded Cocrystal Monolayers](http://dx.doi.org/10.1021/la402910a) Langmuir : the ACS journal of surfaces and colloids 2013
 
@@ -111,9 +111,9 @@
 
 * Sun, C., Brewer, A., Clarke, S.M., Bhinde, T., and Parker, J.E. [Adsorption of iodoalkanes on graphite](http://dx.doi.org/10.1080/00268976.2012.762127) Molecular Physics 2013
 
-* Wood, M.H., and Clarke, S.M. [(S)-(-)-1-Phenyl-ethanaminium hexa-noate.](http://dx.doi.org/10.1107/s1600536812045746) Acta crystallographica. Section E, Structure reports online 2012
+* Brewer, A.Y., Friscic, T., Day, G.M., Overvoorde, L.M., Parker, J.E., Richardson, C.N., and Clarke, S.M. [The monolayer structure of 1,2-bis(4-pyridyl)ethylene physisorbed on a graphite surface](http://dx.doi.org/10.1080/00268976.2012.702229) Molecular Physics 2013
 
-* Brewer, A.Y., Friscic, T., Day, G.M., Overvoorde, L.M., Parker, J.E., Richardson, C.N., and Clarke, S.M. [The monolayer structure of 1,2-bis(4-pyridyl)ethylene physisorbed on a graphite surface](http://dx.doi.org/10.1080/00268976.2012.702229) Molecular Physics 2012
+* Wood, M.H., and Clarke, S.M. [(S)-(-)-1-Phenyl-ethanaminium hexa-noate.](http://dx.doi.org/10.1107/s1600536812045746) Acta crystallographica. Section E, Structure reports online 2012
 
 * Wood, M.H., and Clarke, S.M. [(S)-(−)-1-Phenyl­ethanaminium hexa­noate](http://dx.doi.org/10.1107/s1600536812045746) Acta Crystallographica Section E: Crystallographic Communications 2012
 
@@ -155,9 +155,9 @@
 
 * Clarke, S.M., Friščić, T., Jones, W., Mandal, A., Sun, C., and Parker, J.E. [Observation of a two-dimensional halogen -bonded cocrystal at sub-monolayer coverage using synchrotron X-ray diffraction](http://dx.doi.org/10.1039/c0cc04400h) Chemical communications (Cambridge, England) 2011
 
-* Bhinde, T., Arnold, T., and Clarke, S.M. [The Structure of Dodecanamide Monolayers Adsorbed on Graphite](http://dx.doi.org/10.1007/978-3-642-13461-6_2) TRENDS IN COLLOID AND INTERFACE SCIENCE XXIII 2010
+* Bhinde, T., Phillips, T.K., Clarke, S.M., Arnold, T., and Parker, J.E. [Phase Behavior of Heptanamide Adsorbed on a Graphite Substrate](http://dx.doi.org/10.1021/la1041053) Langmuir : the ACS journal of surfaces and colloids 2011
 
-* Bhinde, T., Phillips, T.K., Clarke, S.M., Arnold, T., and Parker, J.E. [Phase Behavior of Heptanamide Adsorbed on a Graphite Substrate](http://dx.doi.org/10.1021/la1041053) Langmuir : the ACS journal of surfaces and colloids 2010
+* Bhinde, T., Arnold, T., and Clarke, S.M. [The Structure of Dodecanamide Monolayers Adsorbed on Graphite](http://dx.doi.org/10.1007/978-3-642-13461-6_2) TRENDS IN COLLOID AND INTERFACE SCIENCE XXIII 2010
 
 * Phillips, T.K., Bhinde, T., Clarke, S.M., Lee, S.Y., Mali, K.S., and De Feyter, S. [Adsorption of Aldehydes on a Graphite Substrate: Combined Thermodynamic Study of C6−C13 Homologues with a Structural and Dynamical Study of Dodecanal](http://dx.doi.org/10.1021/jp911069t) The Journal of Physical Chemistry C 2010
 
@@ -177,9 +177,9 @@
 
 * Lee, S.Y., O'Sullivan, M., Routh, A.F., and Clarke, S.M. [Thin water layers on CaCO3 particles dispersed in oil with added salts.](http://dx.doi.org/10.1021/la802616n) Langmuir : the ACS journal of surfaces and colloids 2009
 
-* Wang, G., Lei, S., De Feyter, S., Feldman, R., Parker, J.E., and Clarke, S.M. [Behavior of Binary Alcohol Mixtures Adsorbed on Graphite Using Calorimetry and Scanning Tunneling Microscopy](http://dx.doi.org/10.1021/la703240y) Langmuir : the ACS journal of surfaces and colloids 2008
+* Lee, S.Y., O’Sullivan, M., Routh, A.F., and Clarke, S.M. [Thin Water Layers on CaCO3 Particles Dispersed in Oil with Added Salts](http://dx.doi.org/10.1021/la802616n) Langmuir 2009
 
-* Lee, S.Y., O’Sullivan, M., Routh, A.F., and Clarke, S.M. [Thin Water Layers on CaCO3 Particles Dispersed in Oil with Added Salts](http://dx.doi.org/10.1021/la802616n) Langmuir 2008
+* Wang, G., Lei, S., De Feyter, S., Feldman, R., Parker, J.E., and Clarke, S.M. [Behavior of Binary Alcohol Mixtures Adsorbed on Graphite Using Calorimetry and Scanning Tunneling Microscopy](http://dx.doi.org/10.1021/la703240y) Langmuir : the ACS journal of surfaces and colloids 2008
 
 * Parker, J.E., and Clarke, S.M. [Mixing in Adsorbed Monolayers: Perfluorinated Alkanes](http://dx.doi.org/10.1021/la703995u) Langmuir : the ACS journal of surfaces and colloids 2008
 
@@ -235,13 +235,13 @@
 
 * Arnold, T., Thomas, R.K., Castro, M.A., Clarke, S.M., Messe, L., and Inaba, A. [The crystalline structures of the even alkanes hexane, octane, decane, dodecane and tetradecane monolayers adsorbed on graphite at submonolayer coverages and from the liquid](http://dx.doi.org/10.1039/b108190j) Physical Chemistry Chemical Physics 2002
 
+* Hotta, A., Clarke, S.M., and Terentjev, E.M. [Stress Relaxation in Transient Networks of Symmetric Triblock Styrene−Isoprene−Styrene Copolymer](http://dx.doi.org/10.1021/ma001976z) MACROMOLECULES 2002
+
 * Clarke, S.M., Hotta, A., Tajbakhsh, A.R., and Terentjev, E.M. [Effect of cross-linker geometry on dynamic mechanical properties of nematic elastomers](http://dx.doi.org/10.1103/physreve.65.021804) Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics 2002
 
 * Clarke, S.M., Hotta, A., Tajbakhsh, A.R., and Terentjev, E.M. [Effect of crosslinker geometry on equilibrium thermal and mechanical properties of nematic elastomers](http://dx.doi.org/10.1103/physreve.64.061702) Physical Review E - Statistical Physics, Plasmas, Fluids, and Related Interdisciplinary Topics 2001
 
 * Castro, M.A., Clarke, S.M., Inaba, A., Perdigon, A., Prestidge, A., and Thomas, R.K. [Solid Monolayers of Simple Alkyl Molecules Adsorbed from their Liquid to Graphite: the Influence of Different Chemical Groups.](http://dx.doi.org/10.1016/s0167-2991(01)82225-4) Studies in Surface Science and Catalysis 2001
-
-* Hotta, A., Clarke, S.M., and Terentjev, E.M. [Stress Relaxation in Transient Networks of Symmetric Triblock Styrene−Isoprene−Styrene Copolymer](http://dx.doi.org/10.1021/ma001976z) MACROMOLECULES 2001
 
 * Castro, M.A., Clarke, S.M., Inaba, A., Thomas, R.K., and Arnold, T. [Preferential Adsorption from Binary Mixtures of Short Chain n-Alkanes; The Octane−Decane System](http://dx.doi.org/10.1021/jp010873v) The Journal of Physical Chemistry B 2001
 

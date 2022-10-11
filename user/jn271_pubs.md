@@ -1,11 +1,13 @@
 ## Publications
+* Benham, G.P., Devauchelle, O., Morris, S.W., and Neufeld, J.A. [Gunwale bobbing](http://dx.doi.org/10.1103/physrevfluids.7.074804) Physical Review Fluids 2022
+
 * Warburton, K., Hewitt, D., and Neufeld, J. [A time-dependent sliding law for granular till](http://dx.doi.org/10.5194/egusphere-egu22-11677)  2022
 
 * Nijjer, J.S., Hewitt, D.R., and Neufeld, J.A. [Horizontal miscible displacements through porous media: the interplay between viscous fingering and gravity segregation](http://dx.doi.org/10.1017/jfm.2021.1067) Journal of Fluid Mechanics 2022
 
 * Michaut, C., and Neufeld, J.A. [Formation of the Lunar Primary Crust From a Long‐Lived Slushy Magma Ocean](http://dx.doi.org/10.1029/2021gl095408) Geophysical Research Letters 2022
 
-* Gilmore, K.A., Sahu, C.K., Benham, G.P., Neufeld, J.A., and Bickle, M.J. [Leakage dynamics of fault zones: experimental and analytical study with application to CO2 storage](http://dx.doi.org/10.1017/jfm.2021.970) Journal of Fluid Mechanics 2021
+* Gilmore, K.A., Sahu, C.K., Benham, G.P., Neufeld, J.A., and Bickle, M.J. [Leakage dynamics of fault zones: experimental and analytical study with application to CO2 storage](http://dx.doi.org/10.1017/jfm.2021.970) Journal of Fluid Mechanics 2022
 
 * Benham, G.P., Bickle, M.J., and Neufeld, J.A. [Two-phase gravity currents in layered porous media](http://dx.doi.org/10.1017/jfm.2021.523) Journal of Fluid Mechanics 2021
 
@@ -23,17 +25,17 @@
 
 * Butler, A.J.O., Meyer, C.R., and Neufeld, J.A. [Deformation of an Elastic Beam on a Winkler Foundation](http://dx.doi.org/10.1115/1.4046197) JOURNAL OF APPLIED MECHANICS-TRANSACTIONS OF THE ASME 2020
 
+* Warburton, K.L.P., Hewitt, D.R., and Neufeld, J.A. [The elastic Landau–Levich problem on a slope](http://dx.doi.org/10.1017/jfm.2019.910) Journal of Fluid Mechanics 2020
+
 * Géraud, B.M.M., Neufeld, J.A., Holland, P.R., and Worster, M.G. [Permeability measurements using oscillatory flows](http://dx.doi.org/10.1007/s00348-020-2906-z) Experiments in Fluids 2020
 
 * Sahu, C.K., and Neufeld, J.A. [Dispersive entrainment into gravity currents in porous media](http://dx.doi.org/10.1017/jfm.2019.1049) Journal of Fluid Mechanics 2020
 
 * Bryson, J.F.J., Neufeld, J.A., and Nimmo, F. [Constraints on asteroid magnetic field evolution and the radii of meteorite parent bodies from thermal modelling](http://dx.doi.org/10.1016/j.epsl.2019.05.046) Earth and Planetary Science Letters 2019
 
-* Warburton, K.L.P., Hewitt, D.R., and Neufeld, J.A. [The elastic Landau–Levich problem on a slope](http://dx.doi.org/10.1017/jfm.2019.910) Journal of Fluid Mechanics 2019
-
 * Nijjer, J.S., Hewitt, D.R., and Neufeld, J.A. [Stable and unstable miscible displacements in layered porous media](http://dx.doi.org/10.1017/jfm.2019.190) Journal of Fluid Mechanics 2019
 
-* Zheng, Z., and Neufeld, J.A. [Self-similar dynamics of two-phase flows injected into a confined porous layer](http://dx.doi.org/10.1017/jfm.2019.585) JOURNAL OF FLUID MECHANICS 2019
+* Zheng, Z., and Neufeld, J.A. [Self-similar dynamics of two-phase flows injected into a confined porous layer](http://dx.doi.org/10.1017/jfm.2019.585) Journal of Fluid Mechanics 2019
 
 * Neufeld, J.A., Bryson, J.F.J., and Nimmo, F. [The Top‐Down Solidification of Iron Asteroids Driving Dynamo Evolution](http://dx.doi.org/10.1029/2018je005900) Journal of Geophysical Research: Planets 2019
 

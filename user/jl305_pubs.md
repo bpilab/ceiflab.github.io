@@ -32,9 +32,9 @@
 
 * Young, Y.-.N., Booty, M.R., Siegel, M., and Li, J. [Influence of surfactant solubility on the deformation and breakup of a bubble or capillary jet in a viscous fluid](http://dx.doi.org/10.1063/1.3176462) Physics of Fluids 2009
 
-* Boeck, T., Li, J., Lopez Pages, E., Yecko, P., and Zaleski, S. [Ligament formation in sheared liquid–gas layers](http://dx.doi.org/10.1007/s00162-006-0022-1) Theoretical and Computational Fluid Dynamics 2007
+* HAMEED, M., SIEGEL, M., YOUNG, Y.-.N., LI, J., BOOTY, M.R., and PAPAGEORGIOU, D.T. [Influence of insoluble surfactant on the deformation and breakup of a bubble or thread in a viscous fluid](http://dx.doi.org/10.1017/s0022112007009032) Journal of Fluid Mechanics 2008
 
-* HAMEED, M., SIEGEL, M., YOUNG, Y.-.N., LI, J., BOOTY, M.R., and PAPAGEORGIOU, D.T. [Influence of insoluble surfactant on the deformation and breakup of a bubble or thread in a viscous fluid](http://dx.doi.org/10.1017/s0022112007009032) Journal of Fluid Mechanics 2007
+* Boeck, T., Li, J., Lopez Pages, E., Yecko, P., and Zaleski, S. [Ligament formation in sheared liquid–gas layers](http://dx.doi.org/10.1007/s00162-006-0022-1) Theoretical and Computational Fluid Dynamics 2007
 
 * Zheng, M., Li, J., Mackley, M.R., and Tao, J. [The development of asymmetry for oscillatory flow within a tube containing sharp edge periodic baffles](http://dx.doi.org/10.1063/1.2799553) PHYSICS OF FLUIDS 2007
 

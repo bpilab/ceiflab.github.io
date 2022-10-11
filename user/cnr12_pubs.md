@@ -1,11 +1,13 @@
 ## Selected publications
-* Scroggs, M.W., Dokken, J.S., Richardson, C.N., and Wells, G.N. [Construction of arbitrary order finite element degree-of-freedom maps on polygonal and polyhedral cell meshes](http://dx.doi.org/10.1145/3524456) ACM Transactions on Mathematical Software 2022
+* Scroggs, M.W., Dokken, J.S., Richardson, C.N., and Wells, G.N. [Construction of Arbitrary Order Finite Element Degree-of-Freedom Maps on Polygonal and Polyhedral Cell Meshes](http://dx.doi.org/10.1145/3524456) ACM Transactions on Mathematical Software 2022
 
-* Hale, J.S., Li, L., Richardson, C.N., and Wells, G.N. [Containers for Portable, Productive, and Performant Scientific Computing](http://dx.doi.org/10.1109/mcse.2017.2421459) Computing in Science and Engineering 2017
+* Hale, J.S., Li, L., Richardson, C.N., and Wells, G.N. [Containers for Portable, Productive, and Performant Scientific Computing](http://dx.doi.org/10.1109/mcse.2017.2421459) Computing in Science &amp; Engineering 2017
 
 * Alnæs, M., Blechta, J., Hake, J., Johansson, A., Kehlet, B., Logg, A., Richardson, C.N., Ring, J., Rognes, M.E., and Wells, G.N. [The FEniCS Project Version 1.5](http://dx.doi.org/10.11588/ans.2015.100.20553) Archive of Numerical Software 2015
 
 ## Publications
+* Scroggs, M.W., Baratta, I.A., Richardson, C.N., and Wells, G.N. [Basix: a runtime finite element basis evaluation library](http://dx.doi.org/10.21105/joss.03982) The Journal of Open Source Software 2022
+
 * Maljaars, J.M., Richardson, C.N., and Sime, N. [LEoPart: A particle library for FEniCS](http://dx.doi.org/10.1016/j.camwa.2020.04.023) Computers &amp; Mathematics with Applications 2021
 
 * Daversin-Catty, C., Richardson, C.N., Ellingsrud, A.J., and Rognes, M.E. [Abstractions and Automated Algorithms for Mixed Domain Finite Element Methods](http://dx.doi.org/10.1145/3471138) ACM Transactions on Mathematical Software 2021
@@ -14,11 +16,11 @@
 
 * Richardson, C.N., Sime, N., and Wells, G.N. [Scalable computation of thermomechanical turbomachinery problems](http://dx.doi.org/10.1016/j.finel.2018.11.002) Finite Elements in Analysis and Design 2019
 
-* Rudge, J.F., Roberts, G.G., White, N.J., and Richardson, C.N. [Uplift histories of Africa and Australia from linear inverse modeling of drainage inventories](http://dx.doi.org/10.1002/2014jf003297) Journal of Geophysical Research F: Earth Surface 2015
+* Rudge, J.F., Roberts, G.G., White, N.J., and Richardson, C.N. [Uplift histories of Africa and Australia from linear inverse modeling of drainage inventories](http://dx.doi.org/10.1002/2014jf003297) Journal of Geophysical Research: Earth Surface 2015
 
 * Holness, M.B., Richardson, C., and Andersen, J.C.Ø. [The campsite dykes: A window into the early post-solidification history of the Skaergaard Intrusion, East Greenland](http://dx.doi.org/10.1016/j.lithos.2013.10.007) Lithos 2013
 
-* Brewer, A.Y., Friscic, T., Day, G.M., Overvoorde, L.M., Parker, J.E., Richardson, C.N., and Clarke, S.M. [The monolayer structure of 1,2-bis(4-pyridyl)ethylene physisorbed on a graphite surface](http://dx.doi.org/10.1080/00268976.2012.702229) Molecular Physics 2012
+* Brewer, A.Y., Friscic, T., Day, G.M., Overvoorde, L.M., Parker, J.E., Richardson, C.N., and Clarke, S.M. [The monolayer structure of 1,2-bis(4-pyridyl)ethylene physisorbed on a graphite surface](http://dx.doi.org/10.1080/00268976.2012.702229) Molecular Physics 2013
 
 * Holness, M.B., Richardson, C., and Helz, R.T. [Disequilibrium dihedral angles in dolerite sills: A new proxy for cooling rate](http://dx.doi.org/10.1130/g33119.1) Geology 2012
 
@@ -32,5 +34,5 @@
 
 * Richardson, C.N., and Tsypkin, G.G. [Nonlinear Effects in Water‐Vapor Extraction from a Geothermal Reservoir](http://dx.doi.org/10.1023/b:joep.0000028504.96396.b8) Journal of Engineering Physics and Thermophysics 2004
 
-* Richardson, C.N., Lister, J.R., and McKenzie, D. [Melt conduits in a viscous porous matrix](http://dx.doi.org/10.1029/96jb01212) Journal of Geophysical Research B: Solid Earth 1996
+* Richardson, C.N., Lister, J.R., and McKenzie, D. [Melt conduits in a viscous porous matrix](http://dx.doi.org/10.1029/96jb01212) Journal of Geophysical Research: Solid Earth 1996
 

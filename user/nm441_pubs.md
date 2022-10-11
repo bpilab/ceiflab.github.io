@@ -1,9 +1,11 @@
 ## Publications
-* Short, A., Woods, A., Drumright, L., Zia, R., and Mingotti, N. [An alternative approach to delivering safe, sustainable surgical theatre environments.]() Buildings and Cities 2022
+* Mingotti, N., and Woods, A.W. [Dynamics of sediment-laden plumes in the ocean](http://dx.doi.org/10.1017/flo.2022.12) Flow 2022
+
+* James, C.B.G., Mingotti, N., and Woods, A.W. [On particle separation from turbulent particle plumes in a cross-flow](http://dx.doi.org/10.1017/jfm.2021.1065) Journal of Fluid Mechanics 2022
+
+* Short, C.A., Woods, A.W., Drumright, L., Zia, R., and Mingotti, N. [An alternative approach to delivering safe, sustainable surgical theatre environments](http://dx.doi.org/10.5334/bc.154) Buildings and Cities 2022
 
 * Newland, E.L., Mingotti, N., and Woods, A.W. [Dynamics of deep-submarine volcanic eruptions](http://dx.doi.org/10.1038/s41598-022-07351-9) Scientific Reports 2022
-
-* James, C.B.G., Mingotti, N., and Woods, A.W. [On particle separation from turbulent particle plumes in a cross-flow](http://dx.doi.org/10.1017/jfm.2021.1065) Journal of Fluid Mechanics 2021
 
 * Woods, A.W., Short, C.A., Mingotti, N., Schoefert, K., Drumright, L.N., and Zia, R. [Innovative practice in the manufacture of aseptic surgical environments in the late nineteenth century](http://dx.doi.org/10.1080/13556207.2021.1982541) Journal of Architectural Conservation: historic buildings, monuments, places and landscapes 2021
 
@@ -19,7 +21,7 @@
 
 * Mingotti, N., and Woods, A.W. [Multiphase plumes in a stratified ambient](http://dx.doi.org/10.1017/jfm.2019.198) Journal of Fluid Mechanics 2019
 
-* Mingotti, N., and Cardoso, S.S.S. [Mixing and reaction in turbulent plumes: the limits of slow and instantaneous chemical kinetics](http://dx.doi.org/10.1017/jfm.2018.840) Journal of Fluid Mechanics 2018
+* Mingotti, N., and Cardoso, S.S.S. [Mixing and reaction in turbulent plumes: the limits of slow and instantaneous chemical kinetics](http://dx.doi.org/10.1017/jfm.2018.840) Journal of Fluid Mechanics 2019
 
 * Woods, A.W., and Mingotti, N. [Topographic viscous fingering: fluidfluid displacement in a channel of non-uniform gap width](http://dx.doi.org/10.1098/rsta.2015.0427) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 2016
 

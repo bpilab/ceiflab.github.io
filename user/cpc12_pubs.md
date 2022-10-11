@@ -1,21 +1,27 @@
 ## Publications
+* Nabi, S., Grover, P., and Caulfield, C.P. [Robust preconditioned one-shot methods and direct-adjoint-looping for optimizing Reynolds-averaged turbulent flows](http://dx.doi.org/10.1016/j.compfluid.2022.105390) Computers &amp; Fluids 2022
+
+* Mashayek, A., Reynard, N., Zhai, F., Srinivasan, K., Jelley, A., Garabato, A.N., and Caulfield, C.P. [Deep Ocean Learning of Small Scale Turbulence](http://dx.doi.org/10.1029/2022gl098039) Geophysical Research Letters 2022
+
+* Lewin, S.F., and Caulfield, C.P. [Stratified turbulent mixing in oscillating shear flows](http://dx.doi.org/10.1017/jfm.2022.537) Journal of Fluid Mechanics 2022
+
+* Portwood, G.D., de Bruyn Kops, S.M., and Caulfield, C.P. [Implications of inertial subrange scaling for stably stratified mixing](http://dx.doi.org/10.1017/jfm.2022.160) Journal of Fluid Mechanics 2022
+
 * Heffernan, C., and Caulfield, C.-.C.P. [Robust and efficient identification of optimal mixing perturbations using proxy multiscale measures](http://dx.doi.org/10.1098/rsta.2021.0026) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 2022
 
 * Mashayek, A., Reynard, N., Zhai, F., Srinivasan, K., Jelley, A., Naveira Garabato, A.C., and Caulfield, C. [Deep ocean learning of small scale turbulence](http://dx.doi.org/10.1002/essoar.10510319.2)  2022
 
 * Mashayek, A., Barry, B., Alford, M., Cimoli, L., and Caulfield, C.-.C. [A physical-statistical recipe for representation of small scale oceanic turbulent mixing in climate models](http://dx.doi.org/10.1002/essoar.10508227.2)  2022
 
-* Portwood, G.D., de Bruyn Kops, S.M., and Caulfield, C.P. [Implications of inertial subrange scaling for stably stratified mixing](http://dx.doi.org/10.1017/jfm.2022.160) Journal of Fluid Mechanics 2022
-
 * Mashayek, A., Zhai, F., Reynard, N., Jelley, A., Caulfield, C., and Naveira Garabato, A.C. [Deep ocean learning of wave-induced turbulence](http://dx.doi.org/10.1002/essoar.10510319.1)  2022
 
 * Mashayek, A., Baker, L.E., Cael, B.B., and Caulfield, C.P. [A Marginal Stability Paradigm for Shear‐Induced Diapycnal Turbulent Mixing in the Ocean](http://dx.doi.org/10.1029/2021gl095715) Geophysical Research Letters 2022
 
+* Chini, G.P., Michel, G., Julien, K., Rocha, C.B., and Caulfield, C.-.C.P. [Exploiting self-organized criticality in strongly stratified turbulence](http://dx.doi.org/10.1017/jfm.2021.1060) Journal of Fluid Mechanics 2022
+
 * Lloyd, C.J., Dorrell, R.M., and Caulfield, C.P. [The coupled dynamics of internal waves and hairpin vortices in stratified plane Poiseuille flow](http://dx.doi.org/10.1017/jfm.2021.1007) Journal of Fluid Mechanics 2022
 
-* Chini, G.P., Michel, G., Julien, K., Rocha, C.B., and Caulfield, C.-.C.P. [Exploiting self-organized criticality in strongly stratified turbulence](http://dx.doi.org/10.1017/jfm.2021.1060) Journal of Fluid Mechanics 2021
-
-* Yang, Y., Verzicco, R., Lohse, D., and Caulfield, C.P. [Layering and vertical transport in sheared double-diffusive convection in the diffusive regime](http://dx.doi.org/10.1017/jfm.2021.1091) Journal of Fluid Mechanics 2021
+* Yang, Y., Verzicco, R., Lohse, D., and Caulfield, C.P. [Layering and vertical transport in sheared double-diffusive convection in the diffusive regime](http://dx.doi.org/10.1017/jfm.2021.1091) Journal of Fluid Mechanics 2022
 
 * Couchman, M.M.P., Wynne‐Cattanach, B., Alford, M.H., Caulfield, C.P., Kerswell, R.R., MacKinnon, J.A., and Voet, G. [Data‐Driven Identification of Turbulent Oceanic Mixing From Observational Microstructure Data](http://dx.doi.org/10.1029/2021gl094978) Geophysical Research Letters 2021
 
@@ -79,7 +85,7 @@
 
 * Salehipour, H., Peltier, W.R., and Caulfield, C.P. [Self-organized criticality of turbulence in strongly stratified mixing layers](http://dx.doi.org/10.1017/jfm.2018.695) Journal of Fluid Mechanics 2018
 
-* Caulfield, C.-.C., and Luzzatto-Fegiz, P. [An entrainment model for fully-developed wind farms: effects of atmospheric stability and an ideal limit for wind farm performance](http://dx.doi.org/10.1103/PhysRevFluids.3.093802) Physical Review Fluids 2018
+* Caulfield, C.P., and Luzzatto-Fegiz, P. [An entrainment model for fully-developed wind farms: effects of atmospheric stability and an ideal limit for wind farm performance](http://dx.doi.org/10.1103/PhysRevFluids.3.093802) Physical Review Fluids 2018
 
 * Marcotte, F., and Caulfield, C.P. [Optimal mixing in two-dimensional stratified plane Poiseuille flow at finite Péclet and Richardson numbers](http://dx.doi.org/10.1017/jfm.2018.565) Journal of Fluid Mechanics 2018
 
@@ -92,6 +98,8 @@
 * Howland, C.J., Taylor, J.R., and Caulfield, C.P. [Testing linear marginal stability in stratified shear layers](http://dx.doi.org/10.1017/jfm.2018.79) Journal of Fluid Mechanics 2018
 
 * Deng, J., and Caulfield, C.P. [Horizontal locomotion of a vertically flapping oblate spheroid](http://dx.doi.org/10.1017/jfm.2018.62) Journal of Fluid Mechanics 2018
+
+* Bonnebaigt, R., Caulfield, C.P., and Linden, P.F. [Detrainment of plumes from vertically distributed sources](http://dx.doi.org/10.1007/s10652-016-9492-x) Environmental fluid mechanics (Dordrecht, Netherlands : 2001) 2018
 
 * Dickinson, A., White, N.J., and Caulfield, C.P. [Spatial Variation of Diapycnal Diffusivity Estimated From Seismic Imaging of Internal Wave Field, Gulf of Mexico](http://dx.doi.org/10.1002/2017jc013352) Journal of Geophysical Research - Oceans 2017
 
@@ -115,11 +123,9 @@
 
 * Eaves, T.S., and Caulfield, C.P. [Multiple instability of layered stratified plane Couette flow](http://dx.doi.org/10.1017/jfm.2016.686) Journal of Fluid Mechanics 2017
 
-* Sutherland, B.R., and Caulfield, C.P. [Optimal perturbation growth in axisymmetric intrusions](http://dx.doi.org/10.1017/jfm.2016.798) Journal of Fluid Mechanics 2016
+* Sutherland, B.R., and Caulfield, C.P. [Optimal perturbation growth in axisymmetric intrusions](http://dx.doi.org/10.1017/jfm.2016.798) Journal of Fluid Mechanics 2017
 
-* Bonnebaigt, R., Caulfield, C.P., and Linden, P.F. [Detrainment of plumes from vertically distributed sources](http://dx.doi.org/10.1007/s10652-016-9492-x) Environmental fluid mechanics (Dordrecht, Netherlands : 2001) 2016
-
-* Rao, P., Caulfield, C.P., and Gibbon, J.D. [Nonlinear effects in buoyancy-driven variable-density turbulence](http://dx.doi.org/10.1017/jfm.2016.719) Journal of Fluid Mechanics 2016
+* Rao, P., Caulfield, C.P., and Gibbon, J.D. [Nonlinear effects in buoyancy-driven variable-density turbulence](http://dx.doi.org/10.1017/jfm.2016.719) Journal of Fluid Mechanics 2017
 
 * Taylor, J.R., Deusebio, E., Caulfield, C.P., and Kerswell, R.R. [A new method for isolating turbulent states in transitional stratified plane Couette flow](http://dx.doi.org/10.1017/jfm.2016.627) Journal of Fluid Mechanics 2016
 
@@ -131,7 +137,7 @@
 
 * Falder, M., White, N.J., and Caulfield, C.P. [Seismic Imaging of Rapid Onset of Stratified Turbulence in the South Atlantic Ocean*](http://dx.doi.org/10.1175/jpo-d-15-0140.1) Journal of Physical Oceanography 2016
 
-* Deng, J., and Caulfield, C.P. [Dependence on aspect ratio of symmetry breaking for oscillating foils: implications for flapping flight](http://dx.doi.org/10.1017/jfm.2015.661) Journal of Fluid Mechanics 2015
+* Deng, J., and Caulfield, C.P. [Dependence on aspect ratio of symmetry breaking for oscillating foils: implications for flapping flight](http://dx.doi.org/10.1017/jfm.2015.661) Journal of Fluid Mechanics 2016
 
 * Eaves, T.S., and Caulfield, C.P. [Disruption of states by a stable stratification](http://dx.doi.org/10.1017/jfm.2015.596) Journal of Fluid Mechanics 2015
 
@@ -157,7 +163,7 @@
 
 * van Sommeren, D.D.J.A., Caulfield, C.P., and Woods, A.W. [Spatially varying mixing of a passive scalar in a buoyancy-driven turbulent flow](http://dx.doi.org/10.1017/jfm.2014.25) Journal of Fluid Mechanics 2014
 
-* Rabin, S.M.E., Caulfield, C.P., and Kerswell, R.R. [Designing a more nonlinearly stable laminar flow via boundary manipulation](http://dx.doi.org/10.1017/jfm.2013.601) Journal of Fluid Mechanics 2013
+* Rabin, S.M.E., Caulfield, C.P., and Kerswell, R.R. [Designing a more nonlinearly stable laminar flow via boundary manipulation](http://dx.doi.org/10.1017/jfm.2013.601) Journal of Fluid Mechanics 2014
 
 * Mashayek, A., Caulfield, C.P., and Peltier, W.R. [Time-dependent, non-monotonic mixing in stratified turbulent shear flows: implications for oceanographic estimates of buoyancy flux](http://dx.doi.org/10.1017/jfm.2013.551) Journal of Fluid Mechanics 2013
 

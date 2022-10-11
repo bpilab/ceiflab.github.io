@@ -21,7 +21,7 @@
 
 * Madden, D.C., Bentley, M.L., Jenkins, S.J., and Driver, S.M. [On the role of molecular chirality in amino acid self-organisation on Cu{311}](http://dx.doi.org/10.1016/j.susc.2014.03.025) Surface Science 2014
 
-* Iyngaran, P., Madden, D.C., Jenkins, S.J., and King, D.A. [Hydrogenation of N over Fe{111}](http://dx.doi.org/10.1073/pnas.1006634107) Proceedings of the National Academy of Sciences of the United States of America 2010
+* Iyngaran, P., Madden, D.C., Jenkins, S.J., and King, D.A. [Hydrogenation of N over Fe{111}](http://dx.doi.org/10.1073/pnas.1006634107) Proceedings of the National Academy of Sciences of the United States of America 2011
 
 * Watson, D.J., John-Jesudason, R.B.R., McIntosh, A.I., Madden, D.C., Burton, J.W., and Lambert, R.M. [PHYS 342-Heterogeneous asymmetric hydrogenation of C=C bonds]() ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 2007
 
