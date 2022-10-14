@@ -1,5 +1,5 @@
-[Engineering with Droplets](https://talks.cam.ac.uk/talk/index/183035)
+[TBC](https://talks.cam.ac.uk/talk/index/183038)
 
-Pallav Kant (Department of Earth Science), Thu, 13 Oct 2022 11:30:00 +0000
+Megan Davies Wykes (University of Cambridge), Thu, 20 Oct 2022 11:30:00 +0000
 
 Open Plan Area, BP Institute, Madingley Rise CB3 0EZ
